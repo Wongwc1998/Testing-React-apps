@@ -1,8 +1,5 @@
-# React + Vite
+Answer for exercises to [Testing React apps](https://fullstackopen.com/en/part5)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Forked from https://github.com/fullstack-hy2020/bloglist-frontend
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Man I can't wait to use typescript
